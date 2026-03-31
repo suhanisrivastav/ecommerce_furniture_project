@@ -8,4 +8,4 @@ price → Current selling price (after discount)
 
 sold → Number of units sold (can indicate popularity)
 
-tagText → Labels like “Best Seller”, “Limited Offer”, “New Arrival”, etc.
+tagText → Labels like "Free Shipping", "Tags","No Tags" etc.
